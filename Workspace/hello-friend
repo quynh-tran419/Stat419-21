@@ -1,0 +1,59 @@
+---
+title: "helloFriend"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Quynh Tran
+# WSU ID#: 011739702
+# What makes me ME? 
+
+!["The world is big and I am so small"](/Users/quynhtrann248/Desktop/IMG_8770.png){height=50%}
+
+# Who am I?
+
+At the first sight, I see myself as an ambitious and zealous young adult who needs to try out everything for herself to believe in, who is somewhere in between an extrovert and an introvert and has high adaptability. In other people’s eyes, I am stubborn, understanding, impatient, logical, and sometimes annoying because of my over-activeness.
+
+How I behave in different situations are prone to contradict themselves most of the time in my life. I am more of a conceptual and analytical thinker, especially when it comes to facing challenging situations or having to make difficult choices. However, I have seen myself being a free-wheeler and a non-conformist for most of my school life. Not because I liked to break rules or show off how bold I was, I usually followed along with how I felt at that moment even though I saw the upcoming consequences.
+
+Instead of creating a long list of various goals, I like to set myself achievable tasks. Knowing that the goals are reachable motivates me to move forward step by step and to overcome procrastination. I had been a chronic procrastinator, but it had never caused me any serious troubles, at least before I transferred. But I have learned my lesson from last semester- my first semester at WSU when I had to spend 40 hours straight to finish my final project for one of the classes. It would have been better and easier if I had prepared for it ahead of time and not waited until the last minute. I was extremely exhausted, both mentally and physically. I realized that competence only was not enough to satisfy something that required preparation and patience.
+
+In the sense of natural self, I am a joyful, conscientious, detail-oriented, impatient, and shy human being. This human being also gets overwhelmed easily and is not good at taking criticism.
+
+Joyful: Yes I like to be happy and to see people around me happy. "Treating people with respect despite their flaws" is my philosophy.
+Conscientious: I will always be at ease if things are done the way they are supposed to be done and people do things they should do.
+Detail-oriented: Depending on the circumstances, I would have to stop myself from paying too much attention to details, yet it is helpful but sometimes irritating because it makes me see what I should not.
+Impatient: I am aware of my weakness, but it is just hard for me to fix it in a short time. Waiting must not be the best thing to do, but being able to wait could.
+Shy: I do not like to start a conversation with strangers unless I have to, and I can never say out loud what in my mind during that.
+
+In the beginning, I put myself in the middle of being an extrovert and an introvert- omnivert- someone displays traits of both introverts and extroverts because it heavily depends on the events and my feelings during the day. I can a social butterfly in the morning and turn to a girl who has “isolophilia”- strong affection for solitude, in the evening. Yet, despite subjective descriptions about me, people will surely have different perspectives about who I am, respectively on who they are and how they interact with me. My parents and friends’ favorite words to portray me are stubbornness, determination, patience. I do not deny the fact that I am stubborn because I think being firm with self’s opinion is a core trait of a determined person. The view can be right or wrong, it is important for a person to be able to make decisions on their own volition.
+
+# Where am I?
+
+There are several aspects I want to mention to answer this question, which are my skills in the academic environment, my position in society, and where I am in my life journey.
+I initially transferred to WSU as a junior majoring in Chemical Engineering, then changed my interest to Data Analytics with a minor in Math. Being in a new field, I see myself as a recruit who lacks coding skills and knowledge of coding languages that are needed for a data analyst. Watching my classmates being experienced in various coding languages has become the biggest incentive reason for me to work harder on my weaknesses.
+
+“The world is big and I am so small”, the title of William Kotzwinkle’s book, is how I like to describe my feeling about my position in society. To someone who loves me, I am a big part of their world, but to the rest of the world and who do not know me, I am just a normal average person; no more, no less. Comparing myself to other talented people, I am quite a “useless” person with no recognizable accomplishments. Comparing to some other people, I am proud of myself for not hurting anyone or breaking moral rules. Comparing to members of my family, I am the luckiest one whose tuition is paid by my parents and the first child goes to college.
+
+Yet, each person has their own life and they have the right to live how they want to. As a human being, I have a reason to believe that people always want to fill each of their 365-page blank book with positivity like good memories, accomplishments, meaningful relationships, and happiness. However, adulthood is far more complicated than what we hope, anxiety, depression, unemployment, or financial issues will regularly present alternating with other good things. Entering adulthood meaning I will have to prepare for those as well as to build myself a strong immune system to negativity. I am in the middle stage of my life where defining targets for life, correctly guiding myself to success, and developing my potentials, and improving my weaknesses are extremely important.
+
+# Why am I at where I am?
+
+There are numerous reasons that brought me to where I currently am. Subjectively, me in the past, me in the present, and want-to-be me are the major elements that affect my status. Besides, my living environment and my significant others also play a big part in shaping me. I used to be a person with a lack of self-determination, and the vagueness caused me to constantly change the idea of who I want to be and what I should do. I had changed my major five or six times before I declared Data Analytics (DA) as my major. Interchanging between majors at my previous school gave me an insight into how the future careers looked like, but also wasted my time for unnecessary courses and activities. Thus, I was not prepared at all for my final major and came to the DA program missing essential skills. Procrastination was a giant obstacle that blocked me from moving forward. Even though I started my week by scheduling what I needed to do, chronic procrastination kept telling me to lay down in bed, hang out with friends, play with my phone, and not do the work. I am thankful that I changed my studying environment and got out of my bad habitual behavior.
+
+Additionally, having to move countries and cultures has interrupted my learning process as I had to start college using English- my second language. Learning new topics in English, translating what I have known into English, and expressing my thoughts to English was not easy, but the process has become smoother as time passed. I would never know what I could really do if it did not push me to an edge.
+
+Being born and growing up in an open-minded and supportive family were other factors that profoundly shaped me into who I am today.
+
+# Where I want to go? 
+
+A person in their early twenties like me would be more likely to think that they still have a long life to live. No matter how unpredictable that life is, I would always want to go as far as I could. My favorite quote of all time is from the greatest poet- Walt Whitman, “ Keep your face always toward the sunshine, and the shadows will fall behind you.”
+
+I want to be proficient in using different coding languages. I want to graduate in time with an above-average GPA. I want to pass the required series of tests to be a successfully certified actuary who enjoys her job every second she works. I want to have a small coffee and bakery shop for myself as a side job. Sounding good enough, but I am greedy, I do not deny it. I also want to have a happy family with whom I love and live in a small house surrounded by wildflowers. I want to be a person who can balance work and life. Yet, I want to be a good person.
+
+With the skills and experiences I have, it is possible to pass the series of actuarial exams as long as I am willing to get better at all costs. Hard work and patience will also be the most fundamental elements to lead me to success. With the traits of my natural self, I would also have to add seriousness, conformation, as well as overcome shyness in order to survive in the corporate world.
+
